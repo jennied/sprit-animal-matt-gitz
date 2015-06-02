@@ -5,7 +5,7 @@ Author: Matt Gitzendanner
 My spirit animal is a buffalo
 
 ##Buffalo Facts
-The American Buffalo is _Bison bison_ and is also known as a bison.
+The American Buffalo is _Bison bison_ and is also known as a bison. ![](http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bisonkalb.jpg/320px-Bisonkalb.jpg)
 
 The buffalo became nearly extinct in the 19th century.
 
