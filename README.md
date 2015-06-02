@@ -10,3 +10,6 @@ The American Buffalo is Bison bison and is also known as a bison.
 The buffalo became nearly extinct in the 19th century.
 
 Buffalo are known as one of the most dangerous animals in National Parks.
+
+##For more information
+As always, Wikipedia has [a ton of information on Buffalos](http://en.wikipedia.org/wiki/American_bison).
